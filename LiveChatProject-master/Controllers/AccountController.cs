@@ -76,8 +76,5 @@ namespace KursProject
             }
             return NotFound();
         }
-
-
-
     }
 }

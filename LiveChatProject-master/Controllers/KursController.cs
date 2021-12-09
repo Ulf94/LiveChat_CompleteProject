@@ -32,9 +32,6 @@ namespace KursProject.Controllers
         public IActionResult GetMessage()
         {
             var messages = _messageRepositories.GetAll();
-
-            //int refreshTime = _configuration.GetValue<int>("Application:RefreshTime");
-
             var messagesDto = messages.Select(x => new MessageDto
             {
                 Content = x.Content,
