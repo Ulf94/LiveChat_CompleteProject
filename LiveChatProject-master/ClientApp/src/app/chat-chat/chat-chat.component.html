@@ -1,0 +1,8 @@
+<p>Logged user: <br/>
+  {{firstName}} {{lastName}}
+  </p>
+
+<p>Start chat!</p>
+<input [(ngModel)]="messageObject.content" />
+<button (click)="sendMessageToBackend()">Submit</button>
+<p>{{resultOfSendingChatMessage}}</p>

@@ -1,0 +1,15 @@
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\LiveChat.Database.deps.json
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\LiveChat.Database.dll
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\ref\LiveChat.Database.dll
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\LiveChat.Database.pdb
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\LiveChat.Domain.dll
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\bin\Debug\net5.0\LiveChat.Domain.pdb
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.csproj.AssemblyReference.cache
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.AssemblyInfoInputs.cache
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.AssemblyInfo.cs
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.csproj.CoreCompileInputs.cache
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.csproj.CopyComplete
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.dll
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\ref\LiveChat.Database.dll
+C:\Users\m.szura\Desktop\LiveChat\KursProject.Database\obj\Debug\net5.0\LiveChat.Database.pdb
