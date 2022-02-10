@@ -38,7 +38,7 @@ Logging in works more less in the same way - POST request sends a body with user
 
 
 <h2>3. Chat </h2>
-Final result of this code is a live chat communicator between all users. Every user can see all messages stored in database.
+Main goal of the app is a live chat communicator between all users. Every user can see all messages stored in database.
 
 <img src=https://user-images.githubusercontent.com/79094141/144188064-f10b7033-43ae-4d49-a5ae-22b4522ef318.png>
 Here is how the chat looks like. I used three different browser session to be able to log in with three different accounts. 
